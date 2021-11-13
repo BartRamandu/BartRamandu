@@ -1,4 +1,4 @@
-### Hey, guys! Eu sou Bart, sinta-se a vontade no meu perfil 😄 
+### Hey, guys! Eu sou Bart, bem-vind(o/a)s ao meu perfil 😄 
 
 - 🌴 Estudando Java/MySQL/Spring
 - 🌱 Estudarei Docker/Javascript/HTML5/CSS3/Angular/TypeScript/Node.js
