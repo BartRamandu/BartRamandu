@@ -1,7 +1,6 @@
 ### Hey, guys! Eu sou Bart, bem-vind(o/a)s ao meu perfil 😄 
 
-- 🌴 Estudando Java/MySQL/Spring
-- 🌱 Estudarei HTML5/CSS3/Javascript/TypeScript/Angular/Node.js
+- 🌴 Realizando Projetos com: Java/MySQL/Spring/Api's/HTML5/CSS3/Javascript/TypeScript/Angular/Node.js
 - 😊 Pronomes: Ele/Dele
 
 <div align="center">
