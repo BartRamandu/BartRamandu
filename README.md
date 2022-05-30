@@ -1,7 +1,9 @@
-### Hey, guys! Eu sou Bart, bem-vind(o/a)s ao meu perfil 😄 
+### Eu sou Bart, bem-vind(o/a)s ao meu perfil!
 
-- 🌴 Realizando Projetos com: Java/MySQL/Spring/Api's/HTML5/CSS3/Javascript/TypeScript/Angular/Node.js
-- 😊 Pronomes: Ele/Dele
+- 💻 Aprimorando meus conhecimentos em Java;
+- 🖥️ Darei início ao curso em Ciências da Computação;
+- Realizei Projetos utilizando: Java/MySQL/Spring/Api's/HTML5/CSS3/Javascript/TypeScript/Angular/Node.js
+- Pronomes: Ele/Dele
 
 <div align="center">
   <a href="https://github.com/BartRamandu">
